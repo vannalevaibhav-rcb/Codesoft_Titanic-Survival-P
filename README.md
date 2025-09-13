@@ -2,7 +2,7 @@
 
 
 ## For the Seeing in Goggle Colab :
-Colab(https://colab.research.google.com/drive/1JEOEja2p2_dx2XnKtFTx3VQhNTfCvuZ7#scrollTo=89d84482-a463-41f2-8c8e-2a52bff0163b)
+[Colab]-(https://colab.research.google.com/drive/1JEOEja2p2_dx2XnKtFTx3VQhNTfCvuZ7#scrollTo=89d84482-a463-41f2-8c8e-2a52bff0163b)
 
   
 ## Overview
@@ -30,7 +30,7 @@ This repository focuses on predicting the survival of Titanic passengers using m
 
 The project requires the Python packages (mentioned in `requirements.txt`)
 
-## Author (www.linkedin.com/in/vaibhav-vannale-2a051b28a)
+## [Author]-(www.linkedin.com/in/vaibhav-vannale-2a051b28a)
 
 ###### Thank you for checking out the Titanic Survival Prediction project! Feel free to explore and contribute.
 
