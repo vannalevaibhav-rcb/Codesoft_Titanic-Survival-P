@@ -10,22 +10,6 @@
 This repository focuses on predicting the survival of Titanic passengers using machine learning techniques. The approach includes thorough exploratory data analysis, data preprocessing to handle missing data and feature engineering, and evaluating several classification models like Random Forest, Decision Tree, XGBoost, Extra Trees, and Logistic Regression. The final model, Random Forest, achieved an accuracy of approximately **82.68%**.
 
 
-## Project Structure
-  ```
-    Titanic-Survival-Prediction/
-    ├── Datasets/
-    │ ├── Titanic-Dataset.csv
-    ├──Notebook/
-    │ ├── Titanc Survivial Prediction.ipynb
-    ├── README.md
-    └── titanic-survival-prediction-results.csv
-  ```
-- `Datasets/` folder contains raw datasets.  
-- `Notebook/` contains analysis and modeling code.  
-- `requirements.txt` specifies Python dependencies.  
-- `README.md` provides project overview and instructions.
-- `License` contains the license associated with this project.
-
 ## Dependencies
 
 The project requires the Python packages (mentioned in `requirements.txt`)
