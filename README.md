@@ -14,7 +14,9 @@ This repository focuses on predicting the survival of Titanic passengers using m
 
 The project requires the Python packages (mentioned in `requirements.txt`)
 
- [Author](www.linkedin.com/in/vaibhav-vannale-2a051b28a)
+## Author
+
+ [Vaibhav Vannale](www.linkedin.com/in/vaibhav-vannale-2a051b28a)
 
 ###### Thank you for checking out the Titanic Survival Prediction project! Feel free to explore and contribute.
 
